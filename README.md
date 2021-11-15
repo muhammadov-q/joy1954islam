@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+
 <div align="center">
+
 <!-- 
 ![Md Joy Islam github stats](https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
    -->
@@ -56,8 +60,15 @@ Here are some ideas to get you started:
 
 #### Contribution Graph
 [![Md Joy Islam github activity graph](https://activity-graph.herokuapp.com/graph?username=joy1954islam&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=joy1954islam&theme=react-dark)
- 
 
+-----
+#### Connect With Me!
+[![Globe Badge](https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logo=globe&logoColor=white)](https://lamjoy.herokuapp.com/) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JOY.SWE22)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-joy-islam-a16174141/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyislam1954@gmail.com)
+
+-----
 
 # Profile Visitor
 
